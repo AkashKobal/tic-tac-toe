@@ -3,7 +3,24 @@
 ![Tic Tac Toe](https://res.cloudinary.com/deizvfuha/image/upload/v1721916435/Screenshot_2024-07-25_193636_twzjcr.png)
 
 
-[Tic Tac Toe](https://MayurNangre.github.io/tic-tac-toe/) game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
+[Tic Tac Toe](https://AkashKobal.github.io/tic-tac-toe/) game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
+
+# Tic Tac Toe Web App
+
+## 🎮 Game Overview
+This is a simple Tic Tac Toe game built using React.js and deployed on GitHub Pages. 
+
+## 🚀 Features
+- **Interactive Gameplay**: Play against another player.
+- **Responsive Design**: Enjoy the game on any device.
+- **Instant Feedback**: Highlights the winner or declares a draw.
+
+## 📦 Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+
+
 
 ## Game rules
 
